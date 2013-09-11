@@ -12,6 +12,7 @@ __CRP const unsigned int CRP_WORD = CRP_NO_CRP ;
 
 	//PROGRAMA PC
 // soy gaston
+//soy tongas
 
 int main(void) {
 
