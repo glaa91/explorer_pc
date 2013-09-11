@@ -10,7 +10,7 @@ __CRP const unsigned int CRP_WORD = CRP_NO_CRP ;
 #include "includes_todos.h"
 #include "stdio.h"
 
-	//PROGRAMA PC
+//hola
 
 int main(void) {
 
