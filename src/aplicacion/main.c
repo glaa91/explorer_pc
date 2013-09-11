@@ -11,6 +11,7 @@ __CRP const unsigned int CRP_WORD = CRP_NO_CRP ;
 #include "stdio.h"
 
 	//PROGRAMA PC
+// soy gaston
 
 int main(void) {
 
