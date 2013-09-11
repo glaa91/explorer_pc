@@ -34,6 +34,15 @@
 								</option>
 								<option id="gnu.c.compiler.option.misc.other.301121036" name="Other flags" superClass="gnu.c.compiler.option.misc.other" value="-c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections" valueType="string"/>
 								<option id="com.crt.advproject.gcc.exe.debug.option.optimization.level.1631863081" name="Optimization Level" superClass="com.crt.advproject.gcc.exe.debug.option.optimization.level"/>
+								<option id="gnu.c.compiler.option.include.paths.962554746" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/explorer_pc/src/aplicacion}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/explorer_pc/src/drivers}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/explorer_pc/src/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/explorer_pc/src/inicializacion}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/explorer_pc/src/isr}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/explorer_pc/src/sysTick}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/explorer_pc/src/timer}&quot;"/>
+								</option>
 								<inputType id="com.crt.advproject.compiler.input.683474405" superClass="com.crt.advproject.compiler.input"/>
 							</tool>
 							<tool id="com.crt.advproject.gas.exe.debug.1990942909" name="MCU Assembler" superClass="com.crt.advproject.gas.exe.debug">
